@@ -1,0 +1,2 @@
+basket_details_to_add = BasketOfProducts("Mobile","OnePlus*","Amazon Europe","EUR", 890)
+basket_details_to_add.add()
