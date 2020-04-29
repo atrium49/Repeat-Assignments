@@ -1,0 +1,2 @@
+proucts_after_removal = list(filter(lambda i: i['ID'] != instance, basket))
+        return pd.DataFrame(proucts_after_removal)
